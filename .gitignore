@@ -41,3 +41,7 @@ local.properties
 # STS (Spring Tool Suite)
 .springBeans
 target
+#Certificado digital
+*.p12
+#Cacerts
+NFeCacerts
